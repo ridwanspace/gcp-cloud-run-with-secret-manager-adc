@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "norse-fiber-410815",
+  "private_key_id": "fd569b7771a557ee57bbe53645be69b26f18097f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7IQvO38LzY5fa\ncIGIoyU/hVgqpK5kSHP1WjAGbDNjTvizj57pcOTrtWQU46cU5EoAftPKXSR7vsUk\nWdZ9bjkIyWHFYrrSbVP1xvklIc4T9Z0ntowkKGhb089g1YvJ2XMgTRrlvOESlHeK\n/z+lzpk8Cii3TiKt8bmEp9pk8b7EJ/hsnO0XJ2+yExFPl0Dn9UqiUg64Eeyx/tMm\noXhA/LqcN7ZczHFcnrP0PuCIoOBnCxOFoNUz9H9d7SnJ0Md6x1Lhi11EJDt/FFtw\nHwhje+sdH9wVe76/pD5YuMJ0vWF56iqm2SNDK2B9Miy4gqyAzQuQNquiIaT7FyfL\neCaZcXALAgMBAAECggEAOIrfMQa+tuFIgJoPIdS+DAgEIHp7MVUNKL00FrS6AE9b\n6ZHDgCD7Ite/4mn5UeA7FhQ8dYCYZgW6NuYoX+Ueua9z6fsPnUaooHKbVKN2y+Qi\ntN29Ua2d/uUs28MaxoZ8eW2i63kbfww6ZNcEidq3xYMCU4T6CJoqJtG7NVYwgL9Y\nzJjUCGiGVlBFuVOD9NXn27IH/HOrgxVK+5pYJeuoeO01ak9ZbLpHjr4F+elEjOxr\n9cPbzySwPFA/aUuWZ8+KRRmsXDCmExI+XS4mE6tVeTCqGs0xpy5MrAltIGG4FAWd\n2KY5mLr2B4frGzfJijDwC9yPWJoDCrB1qi/AbVmLvQKBgQDf+GKvJBhOivmZ+nrH\n1M9Iz14fDe+MNYDqne7d+aFdI3t2hOMy9kuE7BRz6Om7LkyFpMieQoIdtU0zH1Xw\n7n6g+FDsIRKeeMWuO3EKogWUR2qiRcNaJk1Yl8cwyYqKw9A9TCDtgrw5grDzeyrq\nK+ps8Z6utLjemukNYm3dzpSqNQKBgQDV4+UePcYVxaLs69NEM90bBMwBuzC4eaMo\nld3hlzuitGGYoV2qz2EBk/U7CmrLjYzXp29ou+gsZY5uRACVxncx2Qso1z96MC6w\nG+j7uNI/HmKsJOJEKJxhDAG+8aMOy3zRqpXy0Ba+O3XiXtVSeAQ1hS0yRXLPtp1K\nFexAfdb5PwKBgQDWtzx8ZaE74zYpbR26aAWU6uBz6xtFEqIVyvUOL1yIexTI6dsa\np059DwsImDlDbr6DvRdryZ0OOBrbsOXmRe52Cbkitw4viN8TCv9zTyMEJXdQPIts\n6J1sGo4m8oB0SgdgTJSgvp4OkIFt2x2oRBPI/9a97JnzJxXX9A4aAAs8JQKBgQCW\nNojQZj3ZSIWVskEbIvljYkkL5jTfOb3WYPoE1rsxF1F7achoj1/nRcvx/Oznq6+A\nPLzHZ0A0/dW7ptJqXYmUXoOx2QlhfLktQUysjC5L2cEeeIDXsVWx6kbHnNgRKeOt\nNAo/DtkKHKQ7qLJUSqlaFP+a0J9DNVLdluvmlvoE7QKBgCnHNiF6EBFUfGkrb5zt\nQa2FUrxBYeYqjq/vJ1z0+IC5oae4FxJojAhWpj25HnFMhnt8SZ2zFdoELQuUDMej\nLu1UiQ9vysTZXzmxAZ+zzlXlBY5Otntu0FBkroJ+B7ucGIVhTLB0ZSWwWC6+Oj03\nUV9JX9Vut20nUgGhB8Nq/Pkc\n-----END PRIVATE KEY-----\n",
+  "client_email": "secret-manager@norse-fiber-410815.iam.gserviceaccount.com",
+  "client_id": "113508276533950650781",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/secret-manager%40norse-fiber-410815.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
