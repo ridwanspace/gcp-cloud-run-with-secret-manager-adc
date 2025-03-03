@@ -4,49 +4,7 @@ This repository demonstrates how to build and deploy a FastAPI application to Go
 
 ## Architecture Overview
 
-```mermaid
-graph TD
-    A[Prerequisites] --> B[Service Account Setup]
-    B --> C[Secret Manager Configuration]
-    C --> D[Application Setup]
-    D --> E[GitHub Repository Setup]
-    E --> F[Cloud Run Deployment]
-    F --> G[CI/CD Setup]
-
-    subgraph "Prerequisites"
-    A1[GCP Account] --> A2[GCP Project]
-    A2 --> A3[Enable Required APIs]
-    end
-
-    subgraph "Service Account Setup"
-    B1[Create Service Account] --> B2[Assign Roles]
-    B2 --> B3[Download JSON Key]
-    end
-
-    subgraph "Secret Manager Configuration"
-    C1[Create Secret] --> C2[Add Secret Version]
-    C2 --> C3[Configure Access]
-    end
-
-    subgraph "Application Setup"
-    D1[Clone Repository] --> D2[Set Environment Variables]
-    D2 --> D3[Test Locally]
-    end
-
-    subgraph "GitHub Repository Setup"
-    E1[Push Code] --> E2[Configure Secrets]
-    end
-
-    subgraph "Cloud Run Deployment"
-    F1[Manual Deploy] --> F2[Configure Service Account]
-    F2 --> F3[Set Environment Variables]
-    end
-
-    subgraph "CI/CD Setup"
-    G1[Connect Repository] --> G2[Configure Cloud Build]
-    G2 --> G3[Test Deployment]
-    end
-```
+![Architecture Diagram](assets/workflow.png)
 
 ## Prerequisites
 
@@ -221,6 +179,8 @@ graph TD
    - Check Cloud Run logs in the Google Cloud Console
    - Review Cloud Build history
    - Consult [GCP documentation](https://cloud.google.com/docs)
+   - Application Default Credentials [ADC](https://cloud.google.com/docs/authentication/application-default-credentials)
+   - Cloud run - [Secret Configuration](https://cloud.google.com/run/docs/configuring/services/secrets)
    - Open GitHub issues for project-specific problems
 
 ## Contributing
