@@ -78,9 +78,9 @@ This repository demonstrates how to build and deploy a FastAPI application to Go
 1. Environment Variables
    Create a `.env` file with the following:
    ```
-   GOOGLE_APPLICATION_CREDENTIALS=norse-fiber.json
+   GOOGLE_APPLICATION_CREDENTIALS=example-sa.json
    RESOURCE_NAME=projects/840606066459/secrets/example-sa
-   PROJECT_ID=norse-fiber-410815
+   PROJECT_ID=example-project-id
    ```
 
 2. Local Development Setup
