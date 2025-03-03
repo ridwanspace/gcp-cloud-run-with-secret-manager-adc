@@ -1,6 +1,6 @@
-# FastAPI Application with Google Cloud Secret Manager
+# Modern Python Deployment: FastAPI + Google Cloud Run with Secure Secrets
 
-This repository demonstrates how to build and deploy a FastAPI application to Google Cloud Run with secure secret management using Google Cloud Secret Manager. The application includes CI/CD setup using GitHub and Cloud Build.
+A production-ready template demonstrating secure cloud deployment practices using FastAPI on Google Cloud Run. This comprehensive guide walks through implementing enterprise-grade secret management with Google Cloud Secret Manager, complete with automated CI/CD pipelines via GitHub Actions and Cloud Build. Perfect for teams looking to deploy Python applications securely in a cloud-native environment while following security best practices and DevOps principles.
 
 ## Architecture Overview
 
